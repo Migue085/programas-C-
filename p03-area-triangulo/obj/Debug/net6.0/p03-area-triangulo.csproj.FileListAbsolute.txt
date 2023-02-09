@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\bin\Debug\net6.0\p03-area-triangulo.exe
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\bin\Debug\net6.0\p03-area-triangulo.deps.json
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\bin\Debug\net6.0\p03-area-triangulo.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\bin\Debug\net6.0\p03-area-triangulo.dll
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\bin\Debug\net6.0\p03-area-triangulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.dll
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\refint\p03-area-triangulo.dll
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\p03-area-triangulo.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p03-area-triangulo\obj\Debug\net6.0\ref\p03-area-triangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\bin\Debug\net6.0\p04-paga-trabajador.exe
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\bin\Debug\net6.0\p04-paga-trabajador.deps.json
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\bin\Debug\net6.0\p04-paga-trabajador.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\bin\Debug\net6.0\p04-paga-trabajador.dll
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\bin\Debug\net6.0\p04-paga-trabajador.pdb
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.dll
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\refint\p04-paga-trabajador.dll
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.pdb
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\p04-paga-trabajador.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p04-paga-trabajador\obj\Debug\net6.0\ref\p04-paga-trabajador.dll
