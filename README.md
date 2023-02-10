@@ -11,7 +11,7 @@ miguel pedroza badillo
     • p04-paga-trabajador
 
 ## Actividad 2
-    • p05-hola-mundo
-    • p02-area-circulo
-    • p03-area-triangulo
-    • p04-paga-trabajador
+    • p05-operaciones-matematicas
+    • p06-promedio-calificaciones
+    • p07-operadores-asignacion
+    • p08-funciones-trigonometricas
