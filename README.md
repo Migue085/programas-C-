@@ -9,3 +9,9 @@ miguel pedroza badillo
     • p02-area-circulo
     • p03-area-triangulo
     • p04-paga-trabajador
+
+## Actividad 2
+    • p05-hola-mundo
+    • p02-area-circulo
+    • p03-area-triangulo
+    • p04-paga-trabajador
