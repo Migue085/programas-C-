@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\bin\Debug\net6.0\p06-promedio-calificaciones.exe
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\bin\Debug\net6.0\p06-promedio-calificaciones.deps.json
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\bin\Debug\net6.0\p06-promedio-calificaciones.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\bin\Debug\net6.0\p06-promedio-calificaciones.dll
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\bin\Debug\net6.0\p06-promedio-calificaciones.pdb
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.dll
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\refint\p06-promedio-calificaciones.dll
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.pdb
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\p06-promedio-calificaciones.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p06-promedio-calificaciones\obj\Debug\net6.0\ref\p06-promedio-calificaciones.dll

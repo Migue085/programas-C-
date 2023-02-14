@@ -1,7 +1,7 @@
 # Ingenieria en Computacion
 # programas de la materia de  programacion C# .NET
 
-miguel pedroza badillo
+miguel angel pedroza badillo\
 36174701@uaz.edu.mx
 
 ## Actividad 1
@@ -9,9 +9,10 @@ miguel pedroza badillo
     • p02-area-circulo
     • p03-area-triangulo
     • p04-paga-trabajador
-
+    
 ## Actividad 2
     • p05-operaciones-matematicas
     • p06-promedio-calificaciones
     • p07-operadores-asignacion
     • p08-funciones-trigonometricas
+    • p09-dividir-en-cifras
