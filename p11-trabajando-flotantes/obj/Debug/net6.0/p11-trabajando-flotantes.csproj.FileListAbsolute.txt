@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\bin\Debug\net6.0\p11-trabajando-flotantes.exe
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\bin\Debug\net6.0\p11-trabajando-flotantes.deps.json
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\bin\Debug\net6.0\p11-trabajando-flotantes.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\bin\Debug\net6.0\p11-trabajando-flotantes.dll
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\bin\Debug\net6.0\p11-trabajando-flotantes.pdb
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.dll
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\refint\p11-trabajando-flotantes.dll
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.pdb
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\p11-trabajando-flotantes.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p11-trabajando-flotantes\obj\Debug\net6.0\ref\p11-trabajando-flotantes.dll

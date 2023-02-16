@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\bin\Debug\net6.0\p10-trabajando-enteros.exe
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\bin\Debug\net6.0\p10-trabajando-enteros.deps.json
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\bin\Debug\net6.0\p10-trabajando-enteros.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\bin\Debug\net6.0\p10-trabajando-enteros.dll
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\bin\Debug\net6.0\p10-trabajando-enteros.pdb
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.dll
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\refint\p10-trabajando-enteros.dll
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.pdb
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\p10-trabajando-enteros.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p10-trabajando-enteros\obj\Debug\net6.0\ref\p10-trabajando-enteros.dll
