@@ -23,3 +23,11 @@ miguel angel pedroza badillo\
     • p12-trabajando-constantes
     • p13-trabajando-caracter
     • p14-conversion-tipos
+
+## Tarea 1
+    • p15-hipotenusa-triangulo
+    • p16-calcular-angulo
+    • p17-convertir-temperatura
+    • p18-volumen-cilindro
+    • p19–calculo-tiempo
+    • p20-convertir-a-dolares

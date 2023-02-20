@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\bin\Debug\net6.0\p16-Calcular-Angulo.exe
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\bin\Debug\net6.0\p16-Calcular-Angulo.deps.json
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\bin\Debug\net6.0\p16-Calcular-Angulo.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\bin\Debug\net6.0\p16-Calcular-Angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\bin\Debug\net6.0\p16-Calcular-Angulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\refint\p16-Calcular-Angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\p16-Calcular-Angulo.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p16-Calcular-Angulo\obj\Debug\net6.0\ref\p16-Calcular-Angulo.dll
