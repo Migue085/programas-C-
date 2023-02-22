@@ -31,3 +31,9 @@ miguel angel pedroza badillo\
     • p18-volumen-cilindro
     • p19–calculo-tiempo
     • p20-convertir-a-dolares
+
+## Actividad 4
+    • p21-verificar-numero
+    • p22-verificar-suma
+    • p23-convertir-temperatura
+    • p24-paga-extra
