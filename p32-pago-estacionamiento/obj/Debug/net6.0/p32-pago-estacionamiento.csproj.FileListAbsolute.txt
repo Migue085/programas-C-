@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\bin\Debug\net6.0\p32-pago-estacionamiento.exe
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\bin\Debug\net6.0\p32-pago-estacionamiento.deps.json
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\bin\Debug\net6.0\p32-pago-estacionamiento.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\bin\Debug\net6.0\p32-pago-estacionamiento.dll
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\bin\Debug\net6.0\p32-pago-estacionamiento.pdb
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.dll
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\refint\p32-pago-estacionamiento.dll
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.pdb
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\p32-pago-estacionamiento.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p32-pago-estacionamiento\obj\Debug\net6.0\ref\p32-pago-estacionamiento.dll

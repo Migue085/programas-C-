@@ -37,3 +37,15 @@ miguel angel pedroza badillo\
     • p22-verificar-suma
     • p23-convertir-temperatura
     • p24-paga-extra
+
+## Actividad 5
+    • p25-estaciones-año
+    • p26-tipo-angulo
+    • p27-aceptar-estudiante
+    • p28-ley-de-newton
+
+## Actividad 6
+    • p29-calculadora
+    • p30-dia-semana
+    • p31-numeros-romanos
+    • p32-pago-estacionamiento
