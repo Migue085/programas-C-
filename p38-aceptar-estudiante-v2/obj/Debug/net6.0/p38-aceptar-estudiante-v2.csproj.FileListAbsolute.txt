@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\bin\Debug\net6.0\p38-aceptar-estudiante-v2.exe
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\bin\Debug\net6.0\p38-aceptar-estudiante-v2.deps.json
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\bin\Debug\net6.0\p38-aceptar-estudiante-v2.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\bin\Debug\net6.0\p38-aceptar-estudiante-v2.dll
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\bin\Debug\net6.0\p38-aceptar-estudiante-v2.pdb
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.dll
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\refint\p38-aceptar-estudiante-v2.dll
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.pdb
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\p38-aceptar-estudiante-v2.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p38-aceptar-estudiante-v2\obj\Debug\net6.0\ref\p38-aceptar-estudiante-v2.dll
