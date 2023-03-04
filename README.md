@@ -49,3 +49,14 @@ miguel angel pedroza badillo\
     • p30-dia-semana
     • p31-numeros-romanos
     • p32-pago-estacionamiento
+
+## Tarea 2 - Ejecución condicional
+    • p33-numeros-consecutivos
+    • p34-numero-mayor
+    • p35-continentes-mundo
+    • p36-compra-pizza
+    • p37-calculo-notas
+    • p38-aceptar-estudiante-v2
+    
+## Actividad 7
+    • p39 – repas-parcial-1
