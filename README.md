@@ -60,3 +60,6 @@ miguel angel pedroza badillo\
     
 ## Actividad 7
     • p39 – repas-parcial-1
+
+## Primer examen parcial
+    • p40–primer-parcial
