@@ -70,3 +70,9 @@ miguel angel pedroza badillo\
     • p43-procesa-calificaciones
     • p44-tabla-multiplicar
     • p45-conteo-numeros
+
+## Actividad 9
+    p46–pares-ascendente
+    p47–impares-descendente
+    p48–tabla-de-conversion
+    p49–conjetura-de-collatz

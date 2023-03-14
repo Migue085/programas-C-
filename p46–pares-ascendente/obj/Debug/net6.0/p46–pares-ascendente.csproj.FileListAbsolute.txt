@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\bin\Debug\net6.0\p46–pares-ascendente.exe
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\bin\Debug\net6.0\p46–pares-ascendente.deps.json
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\bin\Debug\net6.0\p46–pares-ascendente.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\bin\Debug\net6.0\p46–pares-ascendente.dll
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\bin\Debug\net6.0\p46–pares-ascendente.pdb
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.dll
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\refint\p46–pares-ascendente.dll
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.pdb
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\p46–pares-ascendente.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p46–pares-ascendente\obj\Debug\net6.0\ref\p46–pares-ascendente.dll
