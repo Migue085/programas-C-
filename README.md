@@ -82,4 +82,10 @@ miguel angel pedroza badillo\
     p51-pares-descendente
     p52-conversion-temperaturas
     p53-serie-fibonaci
-    
+
+## Actividad 10
+    p54-numeros-1-n
+    p55-numeros-n-1
+    p56-arriba-abajo
+    p57-suma-pares-impares
+    p58-suma-promedio
