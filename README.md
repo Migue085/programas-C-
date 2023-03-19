@@ -76,3 +76,9 @@ miguel angel pedroza badillo\
     p47–impares-descendente
     p48–tabla-de-conversion
     p49–conjetura-de-collatz
+
+## Tarea 3
+    p50-impares-ascendente
+    p51-pares-descendente
+    p52-conversion-temperaturas
+    p53-serie-fibonaci
