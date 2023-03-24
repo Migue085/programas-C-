@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\bin\Debug\net6.0\p65-suma-terminos-1.exe
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\bin\Debug\net6.0\p65-suma-terminos-1.deps.json
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\bin\Debug\net6.0\p65-suma-terminos-1.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\bin\Debug\net6.0\p65-suma-terminos-1.dll
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\bin\Debug\net6.0\p65-suma-terminos-1.pdb
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.dll
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\refint\p65-suma-terminos-1.dll
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.pdb
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\p65-suma-terminos-1.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p65-suma-terminos-1\obj\Debug\net6.0\ref\p65-suma-terminos-1.dll
