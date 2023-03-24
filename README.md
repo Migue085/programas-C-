@@ -89,3 +89,9 @@ miguel angel pedroza badillo\
     p56-arriba-abajo
     p57-suma-pares-impares
     p58-suma-promedio
+
+## Actividad 11
+    p59-tablas-multiplicar
+    p60-piramide
+    p61-factorial-numeros
+    p62-suma-terminos
