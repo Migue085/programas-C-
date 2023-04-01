@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\bin\Debug\net6.0\p75-factorial.exe
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\bin\Debug\net6.0\p75-factorial.deps.json
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\bin\Debug\net6.0\p75-factorial.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\bin\Debug\net6.0\p75-factorial.dll
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\bin\Debug\net6.0\p75-factorial.pdb
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.dll
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\refint\p75-factorial.dll
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.pdb
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\p75-factorial.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p75-factorial\obj\Debug\net6.0\ref\p75-factorial.dll
