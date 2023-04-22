@@ -115,3 +115,10 @@ miguel angel pedroza badillo\
     p74-suma-pares-impares
     p75-factorial
     p76-cuadro-caracter 
+
+## Tarea 4
+    p77-numero-menor
+    p78-dia-semana
+    p79-medidas-longitud 
+    p80-suma-multiplos
+    p81–angulo 
