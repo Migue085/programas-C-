@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\bin\Debug\net6.0\p81–angulo.exe
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\bin\Debug\net6.0\p81–angulo.deps.json
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\bin\Debug\net6.0\p81–angulo.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\bin\Debug\net6.0\p81–angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\bin\Debug\net6.0\p81–angulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\refint\p81–angulo.dll
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.pdb
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\p81–angulo.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p81–angulo\obj\Debug\net6.0\ref\p81–angulo.dll
