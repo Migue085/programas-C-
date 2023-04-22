@@ -122,3 +122,6 @@ miguel angel pedroza badillo\
     p79-medidas-longitud 
     p80-suma-multiplos
     p81–angulo 
+
+## Actividad 14
+    • p82-Repaso-segundo-parcial

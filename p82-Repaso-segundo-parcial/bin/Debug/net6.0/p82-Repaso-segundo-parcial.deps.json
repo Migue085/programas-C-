@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p82-Repaso-segundo-parcial/1.0.0": {
+        "runtime": {
+          "p82-Repaso-segundo-parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p82-Repaso-segundo-parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
