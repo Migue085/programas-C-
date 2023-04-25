@@ -125,3 +125,6 @@ miguel angel pedroza badillo\
 
 ## Actividad 14
     • p82-Repaso-segundo-parcial
+
+## Segundo examen parcial
+    • p83–Segundo-parcial
