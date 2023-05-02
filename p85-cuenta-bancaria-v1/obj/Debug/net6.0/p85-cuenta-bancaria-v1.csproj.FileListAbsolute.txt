@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\bin\Debug\net6.0\p85-cuenta-bancaria-v1.exe
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\bin\Debug\net6.0\p85-cuenta-bancaria-v1.deps.json
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\bin\Debug\net6.0\p85-cuenta-bancaria-v1.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\bin\Debug\net6.0\p85-cuenta-bancaria-v1.dll
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\bin\Debug\net6.0\p85-cuenta-bancaria-v1.pdb
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.dll
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\refint\p85-cuenta-bancaria-v1.dll
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.pdb
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\p85-cuenta-bancaria-v1.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p85-cuenta-bancaria-v1\obj\Debug\net6.0\ref\p85-cuenta-bancaria-v1.dll
