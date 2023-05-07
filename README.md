@@ -132,3 +132,6 @@ miguel angel pedroza badillo\
 ## Actividad 15
     • p84-empleado
     • p85-cuenta-bancaria-v1
+
+## Actividad 
+    • p86-cuenta-bancaria-v2
