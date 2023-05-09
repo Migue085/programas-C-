@@ -135,3 +135,6 @@ miguel angel pedroza badillo\
 
 ## Actividad 16
     • p86-cuenta-bancaria-v2
+
+## Actividad 17
+    • p87-control-escolar
