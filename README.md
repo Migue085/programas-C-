@@ -138,3 +138,7 @@ miguel angel pedroza badillo\
 
 ## Actividad 17
     • p87-control-escolar
+    • p88-control-escolar-v2
+
+## Actividad 18
+    • p89-control-escolar-v3
