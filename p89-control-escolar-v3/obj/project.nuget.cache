@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OXlililGEB99bkKSj5FKrMl52PgL5E4ocykCZVKMTOqURQqIrBlB4BXEYGx+Tms4v/4oDGR+A+Vs7rpeOUESEA==",
+  "dgSpecHash": "GU7dVbCI83cxh1XxTJrqnGWHP2hiXpwrhKMEed40RivZX1KuJBmf02lxxIBSqYcNEFLEbkvSvoO1lnGx0aoPhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\USUARIO\\Documents\\programas C#\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
