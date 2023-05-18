@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p90–Tercer-parcial/1.0.0": {
+        "runtime": {
+          "p90–Tercer-parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p90–Tercer-parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

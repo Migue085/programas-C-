@@ -142,3 +142,6 @@ miguel angel pedroza badillo\
 
 ## Actividad 18
     • p89-control-escolar-v3
+
+## Tercer examen parcial
+    • p90–Tercer-parcial

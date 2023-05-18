@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\bin\Debug\net6.0\p90–Tercer-parcial.exe
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\bin\Debug\net6.0\p90–Tercer-parcial.deps.json
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\bin\Debug\net6.0\p90–Tercer-parcial.runtimeconfig.json
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\bin\Debug\net6.0\p90–Tercer-parcial.dll
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\bin\Debug\net6.0\p90–Tercer-parcial.pdb
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.dll
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\refint\p90–Tercer-parcial.dll
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.pdb
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\p90–Tercer-parcial.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\programas C#\p90–Tercer-parcial\obj\Debug\net6.0\ref\p90–Tercer-parcial.dll
